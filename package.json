@@ -1,0 +1,25 @@
+{
+  "name": "restaurant-page-top",
+  "version": "1.0.0",
+  "description": "restaurant page project using webpack and ESM (ES6 Modules)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavorTW/restaurant-page-TOP.git"
+  },
+  "author": "Davor Insaurralde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavorTW/restaurant-page-TOP/issues"
+  },
+  "homepage": "https://github.com/DavorTW/restaurant-page-TOP#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.5",
+    "webpack": "^5.103.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
+  }
+}
